@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Software Engineering**
 
-- 👨‍💻 All of my projects are available at [In progress...](In progress...)
+- 👨‍💻 All of my projects are available at (In progress...)
 
 - 💬 Ask me about **Phyton, SQL, R, JavaScript and Machine Learning**
 
