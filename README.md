@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@juarpla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juarpla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juanarturoplasencia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juanarturoplasencia/" height="30" width="40" /></a>
-<a href="https://discord.gg/Juarpla#1053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Juarpla#1053" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/MAekP2uDd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MAekP2uDd9" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
