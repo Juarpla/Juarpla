@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jplasencia11&label=Profile%20views&color=0e75b6&style=flat" alt="jplasencia11" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering and Data Science **
+- 🌱 I’m currently learning **Software Engineering and Data Science**
 
 - 👨‍💻 All of my projects are available at [In progress...]
 
