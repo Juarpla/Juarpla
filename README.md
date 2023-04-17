@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [In progress...]
 
-- 💬 Ask me about **Phyton, SQL, R, JavaScript and Machine Learning**
+- 💬 Ask me about **Phyton, SQL, JavaScript and Machine Learning**
 
 - 📫 How to reach me **https://t.me/arturoplasencia**
 
