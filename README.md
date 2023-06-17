@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jplasencia11&label=Profile%20views&color=0e75b6&style=flat" alt="jplasencia11" /> </p>
 
-- 🌱 I’m currently learning **Software Engineering and Data Science**
+- 🌱 I’m currently learning **Data Science and Software Engineering**
 
 - 👨‍💻 All of my projects are available at [In progress...]
 
-- 💬 Ask me about **Phyton, SQL, JavaScript and Machine Learning**
+- 💬 Ask me about **Phyton, SQL, R, JavaScript and Machine Learning**
 
 - 📫 How to reach me **https://t.me/arturoplasencia**
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/@juarpla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juarpla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/juanarturoplasencia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juanarturoplasencia/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/juarpla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/juarpla/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/MAekP2uDd9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MAekP2uDd9" height="30" width="40" /></a>
 </p>
 
