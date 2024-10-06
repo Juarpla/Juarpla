@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I used to work as **Freelancer**
+- 🤝 I'm collaborating on the project [Handcrafted Haven Store](https://github.com/Juarpla/handcrafted-haven)
 
-- 🤝 I'm collaborating on [Handcrafted Haven Store](https://github.com/Juarpla/handcrafted-haven)
+- 🤝 I'm collaborating on the project [Med Connect](https://github.com/Juarpla/med-connect)
 
 - 👨‍💻 All of my projects are available at [https://juarpla.github.io/](https://juarpla.github.io/)
 
@@ -27,7 +27,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juarpla&show_icons=true&locale=en&layout=compact" alt="juarpla" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juarpla&show_icons=true&locale=en" alt="juarpla" /></p>
